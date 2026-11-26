@@ -325,11 +325,3 @@ The first version will remain focused on reporting found items, viewing, searchi
 
 ---
 
-## Team decisions to confirm before submission
-
-1. Confirm the storage technology used by the current code and update Section 13.
-2. Confirm whether search/filtering is handled by the backend or frontend and update Section 12.
-3. Confirm who is allowed to mark an item as Returned in the prototype and future deployment.
-4. Confirm the collection points or campus process with the appropriate contact, if the team can do so.
-5. Confirm whether the agreed categories above fit the project.
-6. Add actual user feedback or observations only if the team has collected them.
